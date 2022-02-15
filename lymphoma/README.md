@@ -1,3 +1,8 @@
+# Download and extract:
+
+http://andrewjanowczyk.com/wp-static/lymphoma.tar.gz
+
+# DataSet Description
 
 http://andrewjanowczyk.com/use-case-7-lymphoma-sub-type-classification/
 
